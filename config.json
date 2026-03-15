@@ -1,0 +1,7 @@
+{
+    "seuil_tentatives_ssh": 5,
+    "fenetre_secondes": 60,
+    "ports_surveilles": [22, 80, 443, 3306, 21, 23, 3389],
+    "whitelist_ip": ["127.0.0.1", "::1"],
+    "intervalle_scan": 5
+}

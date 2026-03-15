@@ -95,7 +95,7 @@ Projet personnel développé en parallèle du **Bac Pro CIEL** et de mon stage *
 
 **Eliad Mazlout** — Étudiant Bac Pro CIEL  
 📧 eliad.mazlout782@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/eliad-mazlout) · [TryHackMe](https://tryhackme.com) · [Root-Me](https://www.root-me.org)
+🔗 [LinkedIn](https://www.linkedin.com/in/eliad-mazlout-2830a33a3/)
 
 ---
 

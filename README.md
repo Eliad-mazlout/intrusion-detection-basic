@@ -20,7 +20,7 @@ Surveille les connexions SSH, les ports, les utilisateurs et les processus suspe
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/TON_USERNAME/intrusion-detection-basic.git
+git clone https://github.com/Eliad-mazlout/intrusion-detection-basic.git
 cd intrusion-detection-basic
 sudo python3 ids.py
 ```
